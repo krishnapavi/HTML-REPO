@@ -1,0 +1,29 @@
+body{
+    opacity: inherit;
+}
+
+h2{
+    color: blueviolet;
+}
+img{
+    float: left;
+}
+pre{
+text-indent: 40px;
+text-align: justify;
+}
+*{
+    text-align: justify;
+    background-color: yellow;
+}
+.video{
+    text-align: center;
+}
+.button{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 250px;
+    height: 20px;
+    margin-left: 550px;
+}
