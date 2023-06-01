@@ -1,0 +1,26 @@
+body{
+    background-image:url('R.jpeg');
+    color: white;
+}
+.hd{
+    float: right;
+    margin-top: -40px;
+}
+h4{
+    display: inline;
+    color: rgb(17, 163, 231);
+}
+h3{
+    color: chartreuse;
+    padding: 50px;
+}
+button{
+    background-color: green;
+    color: white;
+    border-color: green;
+    border-radius: 10px;
+margin-left: 70px;
+}
+.pr{
+    margin-left: 50px;
+}

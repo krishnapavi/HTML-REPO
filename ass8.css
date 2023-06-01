@@ -1,0 +1,85 @@
+
+.points{
+    float: right;
+    margin-top: -50px;
+    word-spacing: 20px;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+a:hover{
+    color: yellowgreen;
+    
+}
+.int{
+    background-image: url("R.jpeg");
+    padding-top: 75px;
+    width: 100%;
+    height: 300px;
+    color: rgb(214, 26, 57);
+    text-align: center;
+    font-size: large;
+    
+}
+button{
+    background-color: blue;
+    border-color: blue;
+}
+button:hover{
+    background-color: chartreuse;
+}
+.h1{
+    width: 200px;
+    margin-left: 200px;
+    padding: 50px;
+}
+.c1{
+    width: 100px;
+    color: darkgoldenrod;
+}
+.h2{
+    width: 200px;
+    margin-left:600px;
+    margin-top: -340px;
+}
+.c2{
+    color: deeppink;
+}
+.c3{
+    color: chartreuse;
+}
+.n1{ 
+width: 200px;
+    margin-left: 1000px;
+    margin-top: -300px;
+}
+.about{
+    width: 700px;
+    margin-left: 30px;
+    padding: 100px;
+    background-repeat: no-repeat;
+}
+img{
+    float: right;
+    margin-top: -200px;
+    width: 200px;
+}
+.link{
+    color: aqua;
+    display:block;
+    font-size: large;
+    margin-left: 500px;
+}
+.a1{
+    display: block;
+}
+.a2{
+    display: block;
+}
+.a3{
+    display: block;
+}
+}
+ 
+
