@@ -1,0 +1,70 @@
+body{
+    background-image: url('20521641.jpg');
+}
+h2{
+    color: gold;
+}
+ul li{
+    display: inline;
+}
+ul{
+    text-align: end;
+    margin-top: -50px;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+}
+h3{
+    color: blueviolet;
+    padding-top: 150px;
+}
+h1{
+    color: chartreuse;
+}
+p{
+    width:600px;
+}
+.sp{
+    color: darkgreen;
+}
+button{
+    background-color:red;
+    color: white;
+    border-radius: 10px;
+    width: auto;
+    border-color:red ;
+    margin-left: 50px;
+}
+.be{
+    background-color: red;
+    width:400px;
+    margin-left: 10px;
+    border-radius: 15px;
+}
+p{
+    width: 300px;
+    text-align:justify;
+    margin-left: 50px;
+    
+}
+.bt{
+    background-color: red;
+    width: 400px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+.bs{
+    background-color: red;
+    width: 400px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+.b3{
+    display:flex;
+    padding-top: 20px;
+    margin-left: 50px;
+}
+h4{
+    text-align: center;
+}
