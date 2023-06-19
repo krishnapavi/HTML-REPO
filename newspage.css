@@ -1,0 +1,28 @@
+img{
+    height: 600px;
+    width: 350px;
+}
+.main{
+    margin-top: -140px;
+    border-radius: 20px;
+
+}
+h2{
+    color:#5752ab;
+    font-family:  serif;
+    
+}
+p{
+    color: #323f4b;
+    font-family: roboto;
+}
+.btn2{
+color: #ffffff;
+    border-radius: 5px;
+    background-color: #323f4b;
+}
+/* .btn1{
+    border-radius: 5px;
+    background-color:#5752ab ;
+    border-color: #5752ab;
+} */

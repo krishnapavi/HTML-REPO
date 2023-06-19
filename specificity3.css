@@ -1,0 +1,22 @@
+body{
+    background-color: cyan;
+    
+}
+.pp{
+    width: 50%;
+    background-color: blue;
+    margin-top: -10px;
+    padding: 10px;
+}
+.ppp{
+    width: 50%;
+    background-color: chartreuse;
+    margin-top: -15px;
+    padding: 10px;
+}
+.pppp{
+    width: 50%;
+    background-color: blueviolet;
+    margin-top: -15px;
+    padding: 10px;
+}

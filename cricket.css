@@ -1,0 +1,48 @@
+.img1{
+    text-align:right;
+}
+.bnt{
+    background-color: aquamarine;
+    height:300vh;
+}
+.hed{
+    background-color: #fb4e71;
+    width: 95%;
+}
+.main{
+    background-color: aquamarine;
+    margin-top: -20px;
+     height: 200vh;
+     width: 95%;
+}
+.sub{
+    width: 99%;
+    border-radius:100px;
+
+}
+.rec{
+    padding: 20px;
+}
+.ed{
+     /* border-radius: 20px 20px 20px 20px; */
+    width: 200px;
+    height: 150px;
+    /* right: 70px; */
+
+}
+.ed2{
+    width: 200px;
+    height: 150px;
+    /* right: 50px; */
+}
+.ed1{
+    width: 200px;
+    height: 150px
+}
+.vd{
+    padding: 20px;
+}
+.bb{
+    top: 20px;
+    right: 500px;
+}

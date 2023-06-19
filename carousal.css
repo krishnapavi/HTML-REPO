@@ -1,0 +1,15 @@
+.flex3{
+    display: flex;
+}
+.card2{
+    margin-left: 60px;
+}
+.card3{
+    margin-left: 60px;
+}
+.carousel .carousel-indicators button{
+height:15px;
+width:15  px;
+background-color: blue;
+border-radius: 50%;
+}
