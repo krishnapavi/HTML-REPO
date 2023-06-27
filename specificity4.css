@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    font-size: xx-large;
+    color: blue;
+    width: 50%;
+}
+p{
+    background-color: blueviolet;
+    width: 50%;
+    padding: 20px;
+}
+button{
+    background-color: brown;
+    margin-left: 100px;
+    width: 10%;
+    padding: 10px;
+}
