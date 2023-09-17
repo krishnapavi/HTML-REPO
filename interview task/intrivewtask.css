@@ -1,0 +1,30 @@
+
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+ul .main{
+    list-style: none;
+    justify-content: space-between;
+    display: inline-block;
+    align-items: center;
+    margin: 10px 50px;
+}
+.home{
+    background-image: url('banner1.jpg');
+    min-height: 70vh;
+}
+.sub{
+    color: white;
+    margin-left: 100px;
+}
+.aboutus{
+    text-align: center;
+    display: flex;
+    margin-left: 200px;
+    
+}

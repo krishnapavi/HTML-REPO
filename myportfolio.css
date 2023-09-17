@@ -112,7 +112,7 @@ span{
     
     }
     .img1:hover{
-    transform:scale(1.3);
+    transform:scale(1.5);
     transition: .6s;
 }
 .card-body .card-title{

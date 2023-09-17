@@ -1,0 +1,21 @@
+.navbar ul li{
+    margin-right: 20px;
+}
+header .head{
+    align-items: center;
+    justify-content: space-evenly;
+    display: inline-block;
+    margin: 10px 20px;
+}
+.home{
+    background-image: url('banner1.jpg');
+    min-height: 60vh;
+    /* width: 500px; */
+    /* max-width: 98%; */
+}
+.home h1{
+    color: white;
+    padding: 80px;
+    width: 400px;
+
+}
